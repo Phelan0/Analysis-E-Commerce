@@ -14,7 +14,7 @@
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 | [8 Week SQL Challenge](https://github.com/Sniper116/-8-Week-SQL-Challenge) | - | - | 
-| [NashvilleHousing-CleanData](https://github.com/Sniper116/NashvilleHousing-CleanData) | - | - | 
+| [NashvilleHousing Clean Data](https://github.com/Sniper116/NashvilleHousing-CleanData) | - | - | 
 | - | - | - |  
 
 ***
@@ -24,9 +24,9 @@
 | Project Link | Area | Project Description | Dashboard Link |
 |---|---|---|---|
 | [Digital Markrting Analysis](https://github.com/Sniper116/Digital-Marketing-Analysis) | - | - | - |  
-| [E-Commerce-Analysis](https://github.com/Sniper116/E-Commerce-Analysis) | - | - | - | 
-| [/IMDB-Movie-Analysis](https://github.com/Sniper116/IMDB-Movie-Analysis) | - | - | - | 
-| - | - | - | - |
+| [E-Commerce Analysis](https://github.com/Sniper116/E-Commerce-Analysis) | - | - | - | 
+| [IMDB Movie Analysis](https://github.com/Sniper116/IMDB-Movie-Analysis) | - | - | - | 
+| [LeMans 24h Race Winners](https://github.com/Sniper116/LeMans24h-Race-Winners) | - | - | - |
 
 ***
 
@@ -34,7 +34,7 @@
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| [Sales-12Month-Analysis](https://github.com/Sniper116/Sales-12Month-Analysis) | - | - | - | 
+| [Sales 12Month Analysis](https://github.com/Sniper116/Sales-12Month-Analysis) | - | - | - | 
 | - | - | - | - | 
 | - | - | - | - | 
 
