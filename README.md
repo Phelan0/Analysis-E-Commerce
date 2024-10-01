@@ -13,7 +13,7 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| - | - | - | 
+| [8 Week SQL Challenge](https://github.com/Sniper116/-8-Week-SQL-Challenge) | - | - | 
 | - | - | - | 
 | - | - | - |  
 
