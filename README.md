@@ -9,7 +9,7 @@
 #
 
 
-# SQL
+# 📍SQL
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -19,7 +19,7 @@
 
 ***
 
-# SQL + Power BI
+# 📍SQL + Power BI
 
 | Project Link | Area | Project Description | Dashboard Link |
 |---|---|---|---|
@@ -30,7 +30,7 @@
 
 ***
 
-# Python
+# 📍Python
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
