@@ -22,7 +22,7 @@
 # 📍SQL + Power BI
 
 | Project Link | Area | Project Description |
-|---|---|---|---|
+|---|---|---|
 | ♻️[Digital Markrting Analysis](https://github.com/Sniper116/Digital-Marketing-Analysis) | Data Cleaning, Data transformation, Data Visualization | Dự án sử dụng SQL để phân tích dữ liệu chiến dịch marketing và Power BI để trực quan hóa kết quả. Nhằm đưa ra góc nhìn toàn diện về các chiến dịch sau 1 tháng hoạt động. |
 | 🛍[E-Commerce Analysis](https://github.com/Sniper116/E-Commerce-Analysis) | Data Cleaning, Data transformation, Data Visualization | Dự án sử dụng SQL để phân tích hành vi khách hàng và Power BI để trực quan hóa hoạt động trên sàn thương mại điện tử. Nhằm gia tăng tỉ lệ khách hàng quay lại mua hàng trên sàn Olist Store và tăng lượng khách hàng mới mua hàng qua Olist Store thông qua việc phân tích các đơn hàng đã được tạo. |
 | 🎬[IMDB Movie Analysis](https://github.com/Sniper116/IMDB-Movie-Analysis) | Data Cleaning, Data transformation, Data Visualization | Dự án sử dụng SQL để phân tích thực trạng các bộ phim phổ biến trên IMDB và dùng Power BI để trực quan hóa toàn diện, từ đó có thể thấy được rõ hơn về sự thay đổi trong ngành điện ảnh cũng như xu hướng xem phim của khán giả. |
